@@ -1,8 +1,7 @@
 ## Food Review Stop Words
 
-### Instructions
 
-In this activity, you will make analyzing restaurant reviews a lot easier by removing all the stop words. Follow these steps.
+In this project, we will make analyzing restaurant reviews a lot easier by removing all the stop words. These would be the steps to follow:
 
 1. Tokenize the data and `transform` into a DataFrame.
 
